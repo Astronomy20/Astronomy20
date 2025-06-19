@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fumata Bianca](github.com/Astronomy20/FumataBianca)
 
-- 👨‍💻 All of my projects are available here on [gihtub](github.com/Astronomy20)
+- 👨‍💻 All of my projects are available [here](github.com/Astronomy20)
 
 - 📄 Know about my experiences [linkedin.com/in/matteo-dabbene](linkedin.com/in/matteo-dabbene)
 
