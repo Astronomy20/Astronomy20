@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Fumata Bianca](github.com/Astronomy20/FumataBianca)
 
+- 🌱 I'm currently studying Blockchain and Web3
+
 - 👨‍💻 All of my projects are available [here](https://github.com/Astronomy20?tab=repositories)
 
 <h3 align="left">Languages and Tools:</h3>
