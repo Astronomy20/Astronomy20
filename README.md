@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Astronomy</h1>
 <h3 align="center">I'm a programming enthusiast</h3>
 
-- 🔭 I’m currently working on [Fumata Bianca](github.com/Astronomy20/FumataBianca)
+- 🔭 I’m currently working on [Character Sheet](github.com/Astronomy20/CharacterSheet)
 
-- 🌱 I'm currently studying Blockchain and Web3
+- 🌱 I'm currently studying for personal interests Blockchain and Web3
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Astronomy20?tab=repositories)
 
