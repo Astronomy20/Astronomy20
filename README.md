@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Character Sheet](github.com/Astronomy20/CharacterSheet)
 
-- 🌱 I'm currently studying for personal interests Blockchain and Web3
+- 🌱 I'm currently studying Blockchain and Web3
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Astronomy20?tab=repositories)
 
