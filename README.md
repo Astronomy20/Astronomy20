@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astronomy</h1>
 <h3 align="center">I'm a programming enthusiast</h3>
 
-- 🔭 I’m currently working on [NextLaunch](github.com/Astronomy20/NextLaunch)
+- 🔭 I’m currently working on [NextLaunch](https://github.com/Astronomy20/NextLaunch)
 
 - 🌱 I'm currently studying Blockchain and Web3
 
